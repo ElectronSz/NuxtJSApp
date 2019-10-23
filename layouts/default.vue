@@ -63,9 +63,14 @@ export default {
           to: { name: 'index' }
         },
         {
-          title: 'Results',
+          title: 'Customers',
           icon: 'lightbulb',
-          to: { name: 'results' }
+          to: { name: 'customers' }
+        },
+        {
+          title: 'New Customer',
+          icon: 'lightbulb',
+          to: { name: 'newcustomer' }
         }
       ]
     }
