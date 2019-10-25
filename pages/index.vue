@@ -6,7 +6,7 @@
         icon="github-circle"
       >
         Open source on <a href="https://github.com/buefy/buefy">
-          GitHub
+         Really?
         </a>
       </card>
 
