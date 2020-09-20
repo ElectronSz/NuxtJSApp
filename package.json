@@ -23,7 +23,7 @@
     "firebase": "^7.2.1",
     "mongoose": "^5.7.5",
     "nuxt": "^2.0.0",
-    "nuxt-buefy": "^0.3.2",
+    "nuxt-buefy": "^0.4.2",
     "nuxt-fire": "^2.2.0",
     "vue-simple-spinner": "^1.2.8"
   },
